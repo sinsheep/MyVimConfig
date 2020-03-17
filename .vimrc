@@ -1,0 +1,1 @@
+/home/ysx/.vimrc
